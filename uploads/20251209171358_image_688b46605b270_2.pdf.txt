@@ -1,0 +1,613 @@
+Name : Keshav(27Y/M)
+Date : 07 Mar 2025
+Test Asked : Journey
+Report Status: Complete Report
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+TEST ASKED : JOURNEY DHEERAJ GAURAV HEIGHTS VEERA DESAI
+INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+Report Availability Summary
+Note: Please refer to the table below for status of your tests.
+19 Ready 0 Ready with Cancellation 0 Processing 0 Cancelled in Lab
+TEST DETAILS REPORT STATUS
+JOURNEY Ready
+HDL CHOLESTEROL - DIRECT Ready
+ERYTHROCYTE SEDIMENTATION RATE (ESR) Ready
+HEMOGRAM - 6 PART (DIFF) Ready
+CREATININE PHOSPHOKINASE (MUSCLE/BRAIN) Ready
+HbA1c Ready
+KIDPRO Ready
+VITAMIN B-12 Ready
+ALKALINE PHOSPHATASE Ready
+CA-125 Ready
+BILIRUBIN - TOTAL Ready
+POSTPRANDIAL BLOOD SUGAR(GLUCOSE) Ready
+LDL CHOLESTEROL - DIRECT Ready
+FASTING BLOOD SUGAR(GLUCOSE) Ready
+TRIGLYCERIDES Ready
+TOTAL CHOLESTEROL Ready
+ALANINE TRANSAMINASE (SGPT) Ready
+25-OH VITAMIN D (TOTAL) Ready
+PROSTATE SPECIFIC ANTIGEN (PSA) Ready
+TSH - ULTRASENSITIVE Ready
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR DHEERAJ
+TEST ASKED : JOURNEY GAURAV HEIGHTS VEERA DESAI INDUSTRIAL ESTATE
+ANDHERI WEST MUMBAI MAHARASHTRA 400053
+Summary Report
+Tests outside reference range
+TEST NAME OBSERVED VALUE UNITS Bio. Ref. Interval.
+CARDIAC RISK MARKERS
+TRIG / HDL RATIO 4.82 Ratio < 3.12
+COMPLETE HEMOGRAM
+MONOCYTES 1.9 % 2-10
+MONOCYTES - ABSOLUTE COUNT 0.18 X 10³ / µL 0.2 - 1.0
+LIPID
+HDL / LDL RATIO 0.29 Ratio > 0.40
+HDL CHOLESTEROL - DIRECT 39 mg/dL 40-60
+LDL CHOLESTEROL - DIRECT 132.9 mg/dL < 100
+TRIGLYCERIDES 186 mg/dL < 150
+VITAMIN
+25-OH VITAMIN D (TOTAL) 21.6 ng/mL 30-100
+VITAMIN B-12 < 100 pg/mL 197-771
+Disclaimer: The above listed is the summary of the parameters with values outside the BRI. For detailed report values,
+parameter correlation and clinical interpretation, kindly refer to the same in subsequent pages.
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+REF. BY : SELF
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+PATIENTID : KK24499360
+TEST NAME TECHNOLOGY VALUE UNITS
+HbA1c - (HPLC)
+H.P.L.C 4.9 %
+Bio. Ref. Interval. :
+Bio. Ref. Interval.: As per ADA Guidelines Guidance For Known Diabetics
+Below 5.7% : Normal Below 6.5% : Good Control
+5.7% - 6.4% : Prediabetic 6.5% - 7% : Fair Control
+>=6.5% : Diabetic 7.0% - 8% : Unsatisfactory Control
+>8% : Poor Control
+Method : Fully Automated H.P.L.C method
+AVERAGE BLOOD GLUCOSE (ABG) CALCULATED 94 mg/dL
+Bio. Ref. Interval. :
+90 - 120 mg/dl : Good Control
+121 - 150 mg/dl : Fair Control
+151 - 180 mg/dl : Unsatisfactory Control
+> 180 mg/dl : Poor Control
+Method : Derived from HBA1c values
+Please correlate with clinical conditions.
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 18:04
+Report Released on (RRT) :07 Mar 2025 21:50
+Sample Type :EDTA Whole Blood
+Labcode :0703001129/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode :DN972039
+Page : 1 of 16
+Scan QR code to verify authenticity of reported results; active for 30 days from release time.
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+ERYTHROCYTE SEDIMENTATION RATE (ESR) MODIFIED WESTERGREN 10 mm / hr
+Bio. Ref. Interval. :-
+Male : 0-15 Female : 0-20
+Clinical Significance:
+- An erythrocyte sedimentation rate (ESR) is a blood test that can rise if you have inflammation in your
+body. Its also used as a marker to monitor prognosis of an existing inflammatory/infective condition.
+- Inflammation is your immune systems response to injury, infection, and many types of conditions,
+including immune system disorders, certain cancers and blood disorders.
+- A high ESR test result may be from a condition that causes inflammation, such as: Arteritis, Arthritis,
+Systemic vasculitis, Polymyalgia rheumatica, Inflammatory bowel disease, Kidney disease, Infections like
+Tuberculosis etc, Rheumatoid arthritis and other autoimmune diseases, Heart disease, Certain cancers and
+many other Conditions.
+- A low ESR test result may be caused by conditions such as: A blood disorder, such as: Polycythemia, Sickle
+cell disease (SCD), Leukocytosis, Heart failure, Certain kidney and liver problems etc.
+- Certain physiological conditions also affect ESR results, these include : Pregnancy, menstrual cycle,
+ageing, obesity, drinking alcohol regularly, and exercise, Certain medicines and supplements also can
+affect ESR results.
+- Hence Its always suggested to interpret ESR results in conjunction with Clinical History and other
+findings.
+References :
+https://medlineplus.gov/lab-tests/erythrocyte-sedimentation-rate-esr/
+Please correlate with clinical conditions.
+Method:- MODIFIED WESTERGREN
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 18:04
+Report Released on (RRT) : 07 Mar 2025 21:50
+Sample Type EDTA Whole Blood
+:
+Labcode : 0703001129/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN972039 Page : 2 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY
+INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+PATIENTID : KK24499360
+TEST NAME METHODOLOGY VALUE UNITS Bio. Ref. Interval.
+HEMOGLOBIN SLS-Hemoglobin Method 14.8 g/dL 13.0-17.0
+Hematocrit (PCV) CPH Detection 45.5 % 40.0-50.0
+Total RBC HF & EI 5.15 X 10^6/µL 4.5-5.5
+Mean Corpuscular Volume (MCV) Calculated 88.3 fL 83.0-101.0
+Mean Corpuscular Hemoglobin (MCH) Calculated 28.7 pq 27.0-32.0
+Mean Corp.Hemo. Conc (MCHC) Calculated 32.5 g/dL 31.5-34.5
+Red Cell Distribution Width - SD (RDW-SD) Calculated 44.1 fL 39-46
+Red Cell Distribution Width (RDW - CV) Calculated 13.8 % 11.6-14
+RED CELL DISTRIBUTION WIDTH INDEX (RDWI) Calculated 236.6 - *Refer Note below
+MENTZER INDEX Calculated 17.1 - *Refer Note below
+TOTAL LEUCOCYTE COUNT (WBC) HF & FC 9.39 X 10³ / µL 4.0 - 10.0
+DIFFERENTIAL LEUCOCYTE COUNT
+Neutrophils Percentage Flow Cytometry 66.4 % 40-80
+Lymphocytes Percentage Flow Cytometry 28.1 % 20-40
+Monocytes Percentage Flow Cytometry 1.9 % 2-10
+Eosinophils Percentage Flow Cytometry 3 % 1-6
+Basophils Percentage Flow Cytometry 0.3 % 0-2
+Immature Granulocyte Percentage (IG%) Flow Cytometry 0.3 % 0-0.5
+Nucleated Red Blood Cells % Flow Cytometry 0.01 % 0.0-5.0
+ABSOLUTE LEUCOCYTE COUNT
+Neutrophils - Absolute Count Calculated 6.23 X 10³ / µL 2.0-7.0
+Lymphocytes - Absolute Count Calculated 2.64 X 10³ / µL 1.0-3.0
+Monocytes - Absolute Count Calculated 0.18 X 10³ / µL 0.2 - 1.0
+Basophils - Absolute Count Calculated 0.03 X 10³ / µL 0.02 - 0.1
+Eosinophils - Absolute Count Calculated 0.28 X 10³ / µL 0.02 - 0.5
+Immature Granulocytes (IG) Calculated 0.03 X 10³ / µL 0-0.3
+Nucleated Red Blood Cells Calculated 0.01 X 10³ / µL 0.0-0.5
+PLATELET COUNT HF & EI 323 X 10³ / µL 150-410
+Mean Platelet Volume (MPV) Calculated 10.1 fL 6.5-12
+Platelet Distribution Width (PDW) Calculated 11.1 fL 9.6-15.2
+Platelet to Large Cell Ratio (PLCR) Calculated 25.4 % 19.7-42.4
+Plateletcrit (PCT) Calculated 0.33 % 0.19-0.39
+Remarks : Alert!!! Predominantly normocytic normochromic with ovalocytes. Platelets:Appear adequate in smear.
+*Note - Mentzer index (MI), RDW-CV and RDWI are hematological indices to differentiate between Iron Deficiency Anemia (IDA) and Beta
+Thalassemia Trait (BTT). MI >13, RDWI >220 and RDW-CV >14 more likely to be IDA. MI <13, RDWI <220, and RDW-CV <14 more likely
+to be BTT. Suggested Clinical correlation. BTT to be confirmed with HB electrophoresis if clinically indicated.
+Method : Fully automated bidirectional analyser (6 Part Differential SYSMEX XN-1000)
+(Reference : *FC- flowcytometry, *HF- hydrodynamic focussing, *EI- Electric Impedence, *Hb- hemoglobin, *CPH- Cumulative pulse height)
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) :07 Mar 2025 18:04
+:07 Mar 2025 21:50
+Report Released on (RRT)
+Sample Type : EDTA Whole Blood
+Labcode : 0703001129/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN972039 Page : 3 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+FASTING BLOOD SUGAR(GLUCOSE) PHOTOMETRY 91.98 mg/dL
+Bio. Ref. Interval. :-
+As per ADA Guideline: Fasting Plasma Glucose (FPG)
+Normal 70 to 100 mg/dl
+Prediabetes 100 mg/dl to 125 mg/dl
+Diabetes 126 mg/dl or higher
+Note :
+The assay could be affected mildly and may result in anomalous values if serum samples have heterophilic antibodies, hemolyzed ,
+icteric or lipemic. The concentration of Glucose in a given specimen may vary due to differences in assay methods, calibration and
+reagent specificity. For diagnostic purposes results should always be assessed in conjunction with patients medical history, clinical
+findings and other findings.
+Please correlate with clinical conditions.
+Method:- GOD-PAP METHOD
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:37
+Report Released on (RRT) : 07 Mar 2025 18:50
+Sample Type FLUORIDE PLASMA
+:
+Labcode : 0703097086/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DC448838 Page : 4 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+CA-125 C.L.I.A 13.3 U/mL
+Bio. Ref. Interval. :-
+Less than 30.2 U/ml
+Clinical Significance:
+CA-125 is used to monitor therapy during treatment for Ovarian Cancer. CA125 is also to detect or monitor whether there is a
+recurrence of cancer or malignancy after surgical removal of tumor or radiation therapy or chemotherapy (antineoplastic drugs).
+This test is sometimes used to follow High-Risk women who have a family history of Ovarian Cancer. CA-125 may normally be
+increased in early pregnancy and during menstruation. It can also be increased in diseases such as Pelvic Inflammatory Disease
+or Endometriosis and sometimes in Hepatitis and Cirrhosis of the liver.
+Specifications:
+Precision: Intra Assay (%CV): 4.3 %, Inter Assay (%CV): 2.5%; Sensitivity: 2.0 U/ml
+Kit Validation References:
+Mackey SE, Creasman WT. Ovarian Cancer Screening. J. Clin Oncol 1995; 13(3); 783 - 93.
+Please correlate with clinical conditions.
+Method:- TWO SITE SANDWICH IMMUNOASSAY
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 5 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+25-OH VITAMIN D (TOTAL) E.C.L.I.A 21.6 ng/mL
+Bio. Ref. Interval. :-
+Deficiency : <=20 ng/ml || Insufficiency : 21-29 ng/ml
+Sufficiency : >= 30 ng/ml || Toxicity : >100 ng/ml
+Clinical Significance:
+Vitamin D is a fat soluble vitamin that has been known to help the body absorb and retain calcium and phosphorous; both are
+critical for building bone health.
+Decrease in vitamin D total levels indicate inadequate exposure of sunlight, dietary deficiency, nephrotic syndrome.
+Increase in vitamin D total levels indicate Vitamin D intoxication.
+Specifications: Precision: Intra assay (%CV):9.20%, Inter assay (%CV):8.50%
+Kit Validation Reference : Holick M. Vtamin D the underappreciated D-Lightful hormone that is important for Skeletal
+and cellular health Curr Opin Endocrinol Diabetes 2002:9(1)87-98.
+Please correlate with clinical conditions.
+Method:- Fully Automated Electrochemiluminescence Compititive Immunoassay
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 6 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+VITAMIN B-12 E.C.L.I.A < 100 pg/mL
+Bio. Ref. Interval. :-
+Normal: 197-771 pg/ml
+Clinical significance :
+Vitamin B12 or cyanocobalamin, is a complex corrinoid compound found exclusively from animal dietary sources, such as meat,
+eggs and milk. It is critical in normal DNA synthesis, which in turn affects erythrocyte maturation and in the formation of myelin
+sheath. Vitamin-B12 is used to find out neurological abnormalities and impaired DNA synthesis associated with macrocytic
+anemias. For diagnostic purpose, results should always be assessed in conjunction with the patients medical history, clinical
+examination and other findings.
+Specifications: Intra assay (%CV):2.6%, Inter assay (%CV):2.3 %
+Kit Validation Reference : Thomas L.Clinical laborator Diagnostics : Use and Assessment of Clinical laboratory Results 1st
+Edition,TH Books-Verl-Ges,1998:424-431
+Please correlate with clinical conditions.
+Method:- Fully Automated Electrochemiluminescence Compititive Immunoassay
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 7 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+PROSTATE SPECIFIC ANTIGEN (PSA) C.L.I.A 1.01 ng/mL
+Bio. Ref. Interval. :-
+Normal : < 4.00 ng/ml
+Border line : 4.01 to 10.00 ng/ml
+Clinical Significance:
+Elevated levels of PSA are associated with prostate cancer, but may also be seen with prostatitis (Inflammation of the prostate)
+and benign prostatic hyperplasia (BPH). PSA test done along with free PSA provides additional information. Studies have
+suggested that the percentage of free PSA in total PSA is lower in patients with prostate cancer than those with benign prostate
+hyperplasia.
+Specification:
+Precision: Intra assay (%CV): 4.38%, Inter assay (%CV): 4.67%; Sensitivity: 0.01 ng/ml
+Kit validation references:
+Wang MC, Valenzuala LA, Murphy GP, and Chu TM. Purification of a human prostate-specific antigen. Invest. Urol. 1979; 17: 159
+Please correlate with clinical conditions.
+Method:- TWO SITE SANDWICH IMMUNOASSAY
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 8 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+CREATININE PHOSPHOKINASE (MUSCLE/BRAIN) PHOTOMETRY 15.55 U/L
+Bio. Ref. Interval. :-
+< 25
+Clinical significance:
+Detecting the activity of creatinine kinase isoenzymes in serum is one of the most valuable enzymatic indicators for clinical
+diagnosis of acute myocardial infarction.
+Secifications:
+Precision: Intra assay (%CV): 0.93, Inter assay (%CV): 4.7, Sensitivity: >=0.010.
+Kt validation references
+Wurzburg, U, et al, Clin. Chem. 1976; 54: 357.
+Please correlate with clinical conditions.
+Method:- DGKC
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 9 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR DHEERAJ
+REF. BY : SELF
+GAURAV HEIGHTS VEERA DESAI INDUSTRIAL ESTATE
+TEST ASKED : JOURNEY ANDHERI WEST MUMBAI MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS Bio. Ref. Interval.
+TOTAL CHOLESTEROL PHOTOMETRY 194 mg/dL < 200
+HDL CHOLESTEROL - DIRECT PHOTOMETRY 39 mg/dL 40-60
+TRIGLYCERIDES PHOTOMETRY 186 mg/dL < 150
+LDL CHOLESTEROL - DIRECT PHOTOMETRY 132.9 mg/dL < 100
+VLDL CHOLESTEROL CALCULATED 37.18 mg/dL 5 - 40
+HDL / LDL RATIO CALCULATED 0.29 Ratio > 0.40
+TRIG / HDL RATIO CALCULATED 4.82 Ratio < 3.12
+Please correlate with clinical conditions.
+Method :
+CHOL - Cholesterol Oxidase, Esterase, Peroxidase
+HCHO - Direct Enzymatic Colorimetric
+TRIG - Enzymatic, End Point
+LDL - Direct Measure
+VLDL - Derived from serum Triglyceride values
+HD/LD - Derived from HDL and LDL values.
+TRI/H - Derived from TRIG and HDL Values
+*REFERENCE RANGES AS PER NCEP ATP III GUIDELINES:
+TOTAL CHOLESTEROL (mg/dl) HDL (mg/dl) LDL (mg/dl) TRIGLYCERIDES (mg/dl)
+DESIRABLE <200 LOW <40 OPTIMAL <100 NORMAL <150
+BORDERLINE HIGH 200-239 HIGH >60 NEAR OPTIMAL 100-129 BORDERLINE HIGH 150-199
+BORDERLINE HIGH
+HIGH >240 130-159 HIGH 200-499
+HIGH 160-189 VERY HIGH >500
+VERY HIGH >190
+Alert !!! 10-12 hours fasting is mandatory for lipid parameters. If not, values might fluctuate.
+Sample Collected on (SCT) : 07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type : SERUM
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732
+Page : 10 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR DHEERAJ
+REF. BY : SELF
+GAURAV HEIGHTS VEERA DESAI INDUSTRIAL ESTATE
+TEST ASKED : JOURNEY ANDHERI WEST MUMBAI MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS Bio. Ref. Interval.
+BLOOD UREA NITROGEN (BUN) PHOTOMETRY 12.34 mg/dL 7.94 - 20.07
+CREATININE - SERUM PHOTOMETRY 0.79 mg/dL 0.72-1.18
+BUN / SR.CREATININE RATIO CALCULATED 15.62 Ratio 9:1-23:1
+UREA (CALCULATED) CALCULATED 26.41 mg/dL Adult : 17-43
+UREA / SR.CREATININE RATIO CALCULATED 33.43 Ratio < 52
+CALCIUM PHOTOMETRY 9.48 mg/dL 8.8-10.6
+URIC ACID PHOTOMETRY 6.4 mg/dL 4.2 - 7.3
+Please correlate with clinical conditions.
+Method :
+BUN - Kinetic UV Assay.
+SCRE - Creatinine Enzymatic Method
+B/CR - Derived from serum Bun and Creatinine values
+UREAC - Derived from BUN Value.
+UR/CR - Derived from UREA and Sr.Creatinine values.
+CALC - Arsenazo III Method, End Point.
+URIC - Uricase / Peroxidase Method
+Sample Collected on (SCT) : 07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type : SERUM
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732
+Page : 11 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR DHEERAJ
+REF. BY : SELF
+GAURAV HEIGHTS VEERA DESAI INDUSTRIAL ESTATE
+TEST ASKED : JOURNEY ANDHERI WEST MUMBAI MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS Bio. Ref. Interval.
+BILIRUBIN - TOTAL PHOTOMETRY 0.89 mg/dL 0.3-1.2
+ALANINE TRANSAMINASE (SGPT) PHOTOMETRY 32.2 U/L < 45
+ALKALINE PHOSPHATASE PHOTOMETRY 77.2 U/L 45-129
+Please correlate with clinical conditions.
+Method :
+BILT - Vanadate Oxidation
+SGPT - IFCC* Without Pyridoxal Phosphate Activation
+ALKP - Modified IFCC method
+Sample Collected on (SCT) : 07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type : SERUM
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732
+Page : 12 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+GLOBAL CHAMBERS 504 OFF LINK RD NEAR DHEERAJ
+REF. BY : SELF
+GAURAV HEIGHTS VEERA DESAI INDUSTRIAL ESTATE
+TEST ASKED : JOURNEY ANDHERI WEST MUMBAI MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS Bio. Ref. Interval.
+TSH - ULTRASENSITIVE E.C.L.I.A 1.33 µIU/mL 0.54-5.30
+Comments :
+The Biological Reference Ranges is specific to the age group. Kindly correlate clinically.
+Method :
+USTSH - Fully Automated Electrochemiluminescence Sandwich Immunoassay
+Disclaimer :Results should always be interpreted using the reference range provided by the laboratory that
+performed the test. Different laboratories do tests using different technologies, methods and using different
+reagents which may cause difference. In reference ranges and hence it is recommended to interpret result with
+assay specific reference ranges provided in the reports. To diagnose and monitor therapy doses, it is recommended
+to get tested every time at the same Laboratory.
+Sample Collected on (SCT) : 07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type : SERUM
+Labcode
+: 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 13 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+EST. GLOMERULAR FILTRATION RATE (eGFR) CALCULATED 125 mL/min/1.73 m2
+Bio. Ref. Interval. :-
+> = 90 : Normal
+60 - 89 : Mild Decrease
+45 - 59 : Mild to Moderate Decrease
+30 - 44 : Moderate to Severe Decrease
+15 - 29 : Severe Decrease
+Clinical Significance
+The normal serum creatinine reference interval does not necessarily reflect a normal GFR for a patient. Because mild and
+moderate kidney injury is poorly inferred from serum creatinine alone. Thus, it is recommended for clinical laboratories to routinely
+estimate glomerular filtration rate (eGFR), a “gold standard” measurement for assessment of renal function, and report the value
+when serum creatinine is measured for patients 18 and older, when appropriate and feasible. It cannot be measured easily in
+clinical practice, instead, GFR is estimated from equations using serum creatinine, age, race and sex. This provides easy to
+interpret information for the doctor and patient on the degree of renal impairment since it approximately equates to the
+percentage of kidney function remaining. Application of CKD-EPI equation together with the other diagnostic tools in renal
+medicine will further improve the detection and management of patients with CKD.
+Reference
+Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, 3rd, Feldman HI, et al. A new equation to estimate glomerular filtration
+rate. Ann Intern Med. 2009;150(9):604-12.
+Please correlate with clinical conditions.
+Method:- 2021 CKD EPI Creatinine Equation
+Sample Collected on (SCT) :07 Mar 2025 11:27
+Sample Received on (SRT) : 07 Mar 2025 17:42
+Report Released on (RRT) : 07 Mar 2025 21:02
+Sample Type SERUM
+:
+Labcode : 0703097452/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DN829732 Page : 14 of 16
+PROCESSED AT :
+Thyrocare
+D-37/1,TTC MIDC,Turbhe,
+Navi Mumbai-400 703
+NAME : KESHAV(27Y/M) HOME COLLECTION :
+REF. BY : SELF GLOBAL CHAMBERS 504 OFF LINK RD NEAR
+DHEERAJ GAURAV HEIGHTS VEERA DESAI
+TEST ASKED : JOURNEY INDUSTRIAL ESTATE ANDHERI WEST MUMBAI
+MAHARASHTRA 400053
+TEST NAME TECHNOLOGY VALUE UNITS
+POSTPRANDIAL BLOOD SUGAR(GLUCOSE) PHOTOMETRY 121.75 mg/dL
+Bio. Ref. Interval. :-
+As per ADA Guideline: Random/Post-Prandial Plasma
+Glucose (RPG/PPPG)
+Normal 70 to 140 mg/dl
+Impaired Glucose 140 - 199 mg/dl
+Tolerance
+Diabetes Greater than or Equal to 200
+mg/dl
+Please correlate with clinical conditions.
+Method:- GOD-PAP METHOD
+~~ End of report ~~
+Sample Collected on (SCT) :07 Mar 2025 12:49
+Sample Received on (SRT) : 07 Mar 2025 17:39
+Report Released on (RRT) : 07 Mar 2025 18:49
+Sample Type FLUORIDE PLASMA
+:
+Labcode : 0703097239/DI239 Dr Renuka MD(Path) Dr Arshiya MD(Path)
+Barcode : DO873331 Page : 15 of 16
+Scan QR code to verify authenticity of reported results; active for 30 days from release time.
+CONDITIONS OF REPORTING
+v The reported results are for information and interpretation of the referring doctor only.
+v It is presumed that the tests performed on the specimen belong to the patient; named or identified.
+v Results of tests may vary from laboratory to laboratory and also in some parameters from time to time for the same
+patient.
+v Should the results indicate an unexpected abnormality, the same should be reconfirmed.
+v Only such medical professionals who understand reporting units, reference ranges and limitations of technologies
+should interpret results.
+v This report is not valid for medico-legal purpose.
+v Neither Thyrocare, nor its employees/representatives assume: (a) any liability, responsibility for any loss or damage
+that may be incurred by any person as a result of presuming the meaning or contents of the report, (b) any claims
+of any nature whatsoever arising from or relating to the performance of the requested tests as well as any claim for
+indirect, incidental or consequential damages. The total liability, in any case, of Thyrocare shall not exceed the
+total amount of invoice for the services provided and paid for.
+v Thyrocare Discovery video link :- https://youtu.be/nbdYeRgYyQc
+EXPLANATIONS
+v Majority of the specimen processed in the laboratory are collected by Pathologists and Hospitals we call them
+as "Clients".
+v Name - The name is as declared by the client and recored by the personnel who collected the specimen.
+v Ref.Dr - The name of the doctor who has recommended testing as declared by the client.
+v Labcode - This is the accession number in our laboratory and it helps us in archiving and retrieving the data.
+v Barcode - This is the specimen identity number and it states that the results are for the specimen bearing
+the barcode (irrespective of the name).
+v SCP - Specimen Collection Point - This is the location where the blood or specimen was collected as declared by
+the client.
+v SCT - Specimen Collection Time - The time when specimen was collected as declared by the client.
+v SRT - Specimen Receiving Time - This time when the specimen reached our laboratory.
+v RRT - Report Releasing Time - The time when our pathologist has released the values for Reporting.
+v Reference Range - Means the range of values in which 95% of the normal population would fall.
+SUGGESTIONS
+v Values out of reference range requires reconfirmation before starting any medical treatment.
+v Retesting is needed if you suspect any quality shortcomings.
+v Testing or retesting should be done in accredited laboratories.
+v For suggestions, complaints, clinical support or feedback, write to us at customersupport@thyrocare.com
+or call us on 022-3090 0000
++T&C Apply, #As on 5th December 2024, *As per a survey on doctors' perception of laboratory diagnostics (IJARIIT,2023)
+Page : 16 of 16

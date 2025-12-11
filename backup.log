@@ -1,0 +1,19 @@
+2025-12-08 15:28:29,626 - ERROR - Error getting DB configuration: 'CMySQLConnection' object has no attribute 'password'
+2025-12-08 15:28:29,626 - ERROR - Unexpected error: 'CMySQLConnection' object has no attribute 'password'
+2025-12-08 16:55:10,590 - ERROR - Error getting DB configuration: 'CMySQLConnection' object has no attribute 'password'
+2025-12-08 16:55:10,590 - ERROR - Unexpected error: 'CMySQLConnection' object has no attribute 'password'
+2025-12-08 17:00:56,222 - INFO - Backup directory created: db_backups
+2025-12-08 17:00:56,229 - ERROR - Unexpected error: cannot access local variable 'os' where it is not associated with a value
+2025-12-08 17:25:05,925 - ERROR - Unexpected error: [WinError 2] The system cannot find the file specified
+2025-12-08 17:27:33,151 - INFO - Database connection successful
+2025-12-08 17:28:27,514 - INFO - Backup successful: db_backups\UAT_backup_2025-12-08_17-27-33.sql
+2025-12-08 17:41:09,260 - INFO - Database connection successful
+2025-12-08 17:42:05,142 - INFO - Backup successful: db_backups\UAT_backup_2025-12-08_17-41-09.sql
+2025-12-08 17:47:43,722 - ERROR - Backup failed: mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1045: Access denied for user 'suraj'@'103.176.210.146' (using password: YES) when trying to connect
+
+2025-12-08 18:29:34,489 - ERROR - Unexpected error: cannot access local variable 'os' where it is not associated with a value
+2025-12-09 12:44:39,520 - ERROR - Unexpected error: cannot access local variable 'os' where it is not associated with a value
+2025-12-09 12:52:36,331 - ERROR - Unexpected error: [WinError 2] The system cannot find the file specified
+2025-12-09 12:55:30,553 - ERROR - Unexpected error: [WinError 2] The system cannot find the file specified
+2025-12-09 12:58:31,872 - INFO - Backup successful: db_backups\UAT_backup_2025-12-09_12-57-28.sql
