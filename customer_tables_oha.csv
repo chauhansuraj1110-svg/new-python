@@ -1,0 +1,182 @@
+database,table_name,columns
+oha,Medicines,Product_Name
+oha,avail_methods,availmethod_name
+oha,bank_accounts,bank_name
+oha,banners,mobile_image
+oha,book_lab_orders,"address, agent_mobile, agent_name, email, mobile, name, package_name"
+oha,book_now,"contact, email, name"
+oha,bookings,doctor_name
+oha,brand,name
+oha,brand_add_to_cart,product_name
+oha,brand_categories,name
+oha,brand_coupons,coupon_name
+oha,brand_sub_categories,category_name
+oha,brands_order_management,"courier_name, customer_id"
+oha,calorie_food_images,meal_name
+oha,calorie_parameters,parameter_name
+oha,calorie_types,name
+oha,campaigns,name
+oha,category,"cat_name, categoryName_as, categoryName_en, categoryName_hi"
+oha,cities,name
+oha,clinic_notes_catalogs,name
+oha,communities,name
+oha,company_bank_details,"account_name, bank_name, branch_name"
+oha,company_details,"address, company_name, country_name"
+oha,consent_form_patients,"address, email, mobile, name"
+oha,consoltants,"appointment_email_notification, daily_email_notification, email, full_name, mobile_number"
+oha,consultation_masters,consultation_name
+oha,contact_information,"email_address, first_name, last_name, mobile_number"
+oha,contact_us,"email, first_name, last_name, phone"
+oha,corporate_accesses,access_name
+oha,corporate_departments,department_name
+oha,corporate_designations,designation_name
+oha,corporate_employees,"address, email, employee_name, health_package_name, mobile_no, work_email"
+oha,corporate_excel_master,excel_name
+oha,corporate_insurance_details,"health_package_name, insurance_plan_name"
+oha,corporate_localities,"address, branch_name, contact_no, contact_person, email"
+oha,corporate_offline_transactions,bank_name
+oha,corporate_packages,name
+oha,corporate_positions,position_name
+oha,corporate_reg_webinar,"email, name, phone"
+oha,corporate_regions,region_name
+oha,corporate_sessions,session_name
+oha,corporate_zones,zone_name
+oha,corporates,"company_name, company_registered_address, current_address, full_name, mobile_no"
+oha,coupons,coupon_name
+oha,dependent_covereds,name
+oha,diagnostic_categories,name
+oha,diagnostic_subcategories,name
+oha,diagnostics,"address, email, name, phone"
+oha,diagnostics_test,name
+oha,digitalpricriptions,"dosageformname, labelername, marketingcategoryname, nonproprietaryname, producttypename, proprietaryname, proprietarynamesuffix, routename, substancename"
+oha,doctor_clinics,"address, address2, clinic_name, email"
+oha,doctor_identity_proofs,custom_name
+oha,doctor_inventory,item_name
+oha,doctor_onboard_fee_transaction,sale_person_name
+oha,doctor_otp_verifications,phone
+oha,doctor_patients,"p_email, p_name"
+oha,doctor_qualifications,"course_name, custom_name"
+oha,doctor_registrations,custom_name
+oha,doctor_services,"clinic_address, clinic_name, default_address"
+oha,drug_catalog,name
+oha,drugs,drug_name
+oha,e_shop_users,"contact_number, email, email_verified, name"
+oha,eco_cart,item_name
+oha,eco_discount_admins,"email, name"
+oha,eco_medicine,"brand_name, category_name, content_name, hsn_sac_name, item_full_name, item_name, item_short_name, pack_name, req_presc_name"
+oha,eco_medicine_categories,name
+oha,eco_medicine_orders,"address_id, courier_partnerName, patient_name"
+oha,eco_medicine_sub_categories,name
+oha,eco_order_items,medicine_name
+oha,eco_prescriptions,"doctor_name, original_file_name"
+oha,excel_master_user_corporates,"address_line_1, address_line_2, branch_address, branch_contact_no, branch_contact_person, branch_email, city_name, department_name, designation_name, email, health_package_name, insurance_plan_name, locality_name, name, phone, position_name, region_name, state_name, user_address, working_email, zone_name"
+oha,expenses,vendor_name
+oha,family_members,does_not_own_email
+oha,franchise_contacts,"contactNumber, email, fullName"
+oha,fun_forever_orders,"address, address_id, deliver_name, package_name, session_name, user_email, user_phone"
+oha,health_care_policies,"agent_name, company_name, mobile_no"
+oha,health_professionals,name
+oha,horoscopes,hindi_name
+oha,individual_wallets,bank_name
+oha,infants,name
+oha,lab_products,"edited_product_name, product_name, test_name, vender_name"
+oha,lab_sub_products,"GroupName, name, product_name"
+oha,lab_test_names,TestName
+oha,languages,language_name
+oha,lyt_order_dts,sKUNames
+oha,medication_groups,group_name
+oha,medications,name
+oha,medicine_master_categories,name
+oha,medicine_pharma_imports,"manufacturer_address, medicine_name"
+oha,medicines,product_name
+oha,medtel_patient_registration_logs,"patient_name, patient_phone"
+oha,medtel_screening_reports,"mobile, name, thp_name"
+oha,mental_health_questions,"question_name, test_name"
+oha,message_templates,template_name
+oha,o_t_c_s,Name
+oha,oauth_access_tokens,name
+oha,oauth_clients,name
+oha,offline_medicine_order,"address_id, courier_partner_name, courier_partnerName, medicine_name"
+oha,offline_medicine_order_item,medicine_name
+oha,offline_medicine_order_prescription,file_name
+oha,oha_company_details,"company_address, company_name, contact_email, contact_number"
+oha,oha_coupon_management,coupon_name
+oha,oha_coupon_vendor,vendor_name
+oha,oha_offer_package,offer_name
+oha,oha_pharmacies,"address, email, pharmacy_name, phone, temp_email, temp_phone"
+oha,oha_pharmacies_pincodes,"address, store_name"
+oha,order_medicine,address
+oha,order_patient_addresses,"is_billing_address, patient_address_id"
+oha,order_product,courier_name
+oha,packages,name
+oha,palfactorlevels,pal_name
+oha,password_resets,email
+oha,patient_addresses,"address, deliver_name, email, phone"
+oha,patient_appointments,"email, mobile, name"
+oha,patient_reports,file_name
+oha,patient_upload_reports,"patient_contact_no, patient_email, patient_name"
+oha,patner_contact_us,"company_name, email, first_name, last_name, phone"
+oha,permissions,name
+oha,pet__diagnostics,diagnostic_name
+oha,pets,name
+oha,pharmacies,"address, email, pharmacy_name, phone, temp_email, temp_phone"
+oha,pharmacy_clinic_tests,"test_name, test_name_key"
+oha,pharmacy_medicines,"generic_name, item_name"
+oha,pharmacy_service_manages,"address, store_name"
+oha,physical_activities,name
+oha,pillmanagements,pill_name
+oha,pin_service_lists,screen_name
+oha,postoffice_pincodes,"circle_name, division_name, office_name, region_name"
+oha,pre_scription_medicines,medicine_name
+oha,pre_scriptions,file_name
+oha,prescription_details,"dr_name, email, mobile_no"
+oha,prescription_medical_details,medicine_name
+oha,prescriptions,"doctor_name, file_name"
+oha,procedures,name
+oha,procedures_templates,"medicine_name, template_name"
+oha,product_category,name
+oha,product_detail,"country_name, product_name"
+oha,profiles,"address, alternate_phone"
+oha,relationships,relation_name
+oha,remainders,medicine_name
+oha,roles,name
+oha,screen_recordings,"audio_file_name, video_file_name"
+oha,service_types,"name, name_as, name_en, name_hi"
+oha,services,servive_name
+oha,shipping_and_billing_addresses,"billing_company_name, billing_email, billing_first_name, billing_last_name, billing_mobile_no, billing_street_address, company_name, email, first_name, last_name, mobile_no, street_address"
+oha,shipping_select,shipping_name
+oha,sleeping_habits,name
+oha,smoking_habits,name
+oha,staffs,"email, email_notification, full_name, mobile_number"
+oha,states,name
+oha,status,"clinic_name, doctor_name"
+oha,support_email,email
+oha,symptoms,symptom_name
+oha,temp_medicine_orders,"Branch_Sh_Name, Brand_Name, Customer, Disease_Category_Name, Item_Group_Name, Item_Name, Mobile, User_Name"
+oha,temp_prescription,original_file_name
+oha,tests,"dept_name, test_name"
+oha,user_answers,test_name
+oha,user_sso_providers,provider_name
+oha,users,"address_1, address_2, email, email_verified_at, first_name, last_name, phone, phone_verified_at, working_email"
+oha,users_t,"address_1, address_2, email, email_verified_at, first_name, last_name, phone, phone_verified_at, working_email"
+oha,vac,file_name
+oha,vaccine_list,vaccine_name
+oha,verifications,"email, phone"
+oha,versions,app_name
+oha,webinar_cards,screen_name
+oha,webinar_registrations,"email, mobile, name"
+oha,well_wisher_card_allocations,"address, card_name_id, contact, email, first_name, last_name"
+oha,well_wisher_users,"address, contact, email, first_name, last_name"
+oha,wellness_expert_accnt_detail,accnt_holder_name
+oha,wellness_medical_histories,wellness_medical_name
+oha,wellness_package_offerings,package_name
+oha,wellness_package_other_charges,charge_name
+oha,wellness_packages,name
+oha,wellness_packages_offering,package_name
+oha,wellness_sessions,wellness_session_name
+oha,wellness_signups,"email, full_name, phone"
+oha,wellness_specialization_subcategories,name
+oha,wellness_specializations,full_name
+oha,whatsapp_templates,template_name
+oha,work_stress_question_categories,category_name
+oha,zoom_meetings_response,host_email
